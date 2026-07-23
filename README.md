@@ -12,5 +12,5 @@ hg
 hhg
 hg
 g
-gg
+ggg
 g
