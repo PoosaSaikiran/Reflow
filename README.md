@@ -10,7 +10,7 @@ h
 h
 hg
 hhg
-hg
+hgg
 g
 ggg
 g
